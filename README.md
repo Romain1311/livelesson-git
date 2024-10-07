@@ -1,3 +1,4 @@
+New Title
 Title
 git clone
 git commit
@@ -9,3 +10,4 @@ git restore --source hash file
 Title2
 git remote add origin url, define the link to a space with the name 'origin' with url
 git pull
+Closing
