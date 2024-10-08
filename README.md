@@ -8,7 +8,7 @@ git diff HEAD~1
 git log
 git restore --source hash file
 	-restore the version of the file corresponding to the state with the hash
-## TiTlE2
+## Title2
 git remote add origin url, define the link to a space with the name 'origin' with url
 git pull
 Closing
@@ -19,6 +19,4 @@ Closing
 - git merge <BRANCH> merge the current with <BRANCH>
 	- Can be automatically combined
 - git rebase <BRANCH> to call from the branch to be rebased
-- main change 1
-- main change 2
 
