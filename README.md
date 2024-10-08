@@ -22,4 +22,5 @@ Closing
 - git status to know what to do during merge or rebase
 - git rebase --continue after fixing conflicts
 - git add <file> after fixing conflicts in the code
+- git rebase -i HASH or HEAD~4 to go interactive mode with squash or s to squash commit into previous one
 
