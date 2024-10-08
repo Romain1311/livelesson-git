@@ -12,3 +12,7 @@ Title2
 git remote add origin url, define the link to a space with the name 'origin' with url
 git pull
 Closing
+
+- git branch <NAME> create a branch
+- git branch rm <NAME> remove branch
+- git switch (-c) <NAME> move to branch (and create it on the fly)
