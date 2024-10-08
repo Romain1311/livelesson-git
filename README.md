@@ -24,3 +24,6 @@ Closing
 - git add <file> after fixing conflicts in the code
 - git rebase -i HASH or HEAD~4 to go interactive mode with squash or s to squash commit into previous one
 - git stash instead of git commit to store changes without commit and change branch safely
+	- stash is temporary
+	- git stash apply to recover the last backup on a given branch
+	- git stash clear to clear the stashes
