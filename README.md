@@ -19,8 +19,7 @@ Closing
 - git merge <BRANCH> merge the current with <BRANCH>
 	- Can be automatically combined
 - git rebase <BRANCH> to call from the branch to be rebased
--git log1
--git log2
--git commit 1
--git commit 2
+- git status to know what to do during merge or rebase
+- git rebase --continue after fixing conflicts
+- git add <file> after fixing conflicts in the code
 
