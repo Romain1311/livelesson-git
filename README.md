@@ -22,4 +22,5 @@ Closing
 -git log1
 -git log2
 -git commit 1
+-git commit 2
 
