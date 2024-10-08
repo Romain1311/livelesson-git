@@ -19,4 +19,5 @@ Closing
 - git merge <BRANCH> merge the current with <BRANCH>
 	- Can be automatically combined
 - git rebase <BRANCH> to call from the branch to be rebased
+-git log1
 
