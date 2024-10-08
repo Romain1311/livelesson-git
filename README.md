@@ -8,7 +8,7 @@ git diff HEAD~1
 git log
 git restore --source hash file
 	-restore the version of the file corresponding to the state with the hash
-## Tittttttttttttttttttttt2
+## TITLE2
 git remote add origin url, define the link to a space with the name 'origin' with url
 git pull
 Closing
@@ -22,6 +22,4 @@ Closing
 - git status to know what to do during merge or rebase
 - git rebase --continue after fixing conflicts
 - git add <file> after fixing conflicts in the code
-- git comm1
-- git comm2
 
