@@ -22,4 +22,5 @@ Closing
 - git status to know what to do during merge or rebase
 - git rebase --continue after fixing conflicts
 - git add <file> after fixing conflicts in the code
+- git comm1
 
