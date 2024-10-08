@@ -23,4 +23,5 @@ Closing
 - git rebase --continue after fixing conflicts
 - git add <file> after fixing conflicts in the code
 - git comm1
+- git comm2
 
