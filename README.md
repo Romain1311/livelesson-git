@@ -20,4 +20,5 @@ Closing
 	- Can be automatically combined
 - git rebase <BRANCH> to call from the branch to be rebased
 - branch commit 1
+- branch commit 2
 
