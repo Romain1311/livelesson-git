@@ -17,4 +17,6 @@ Closing
 - git branch rm <NAME> remove branch
 - git switch (-c) <NAME> move to branch (and create it on the fly)
 - git merge <BRANCH> merge the current with <BRANCH>
+	- Can be automatically combined
 - git rebase <BRANCH> to call from the branch to be rebased
+
