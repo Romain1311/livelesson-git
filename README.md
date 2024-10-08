@@ -20,4 +20,5 @@ Closing
 	- Can be automatically combined
 - git rebase <BRANCH> to call from the branch to be rebased
 -git log1
+-git log2
 
