@@ -28,4 +28,5 @@ Closing
 	- git stash apply to recover the last backup on a given branch
 	- git stash clear to clear the stashes
 - A merge on the remote is called a pull request or merge request
-	- git push where what
+	- git push <where> <what>
+	
