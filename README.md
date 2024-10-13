@@ -30,4 +30,6 @@ Closing
 - A merge on the remote is called a pull request or merge request
 	- git push <where> <what>
 - To update a PR, do changes locally and re push to the remote
+- git fetch update git log
+	-git fetch --prune to prune branches inexisting on the remote
 	
