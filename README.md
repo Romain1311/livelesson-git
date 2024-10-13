@@ -30,4 +30,4 @@ Closing
 - A merge on the remote is called a pull request or merge request
 	- git push <where> <what>
 - To update a PR, do changes locally and re push to the remote
-	
+- A merge conflict can happen after a PR is issued
