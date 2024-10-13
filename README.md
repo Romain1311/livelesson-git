@@ -29,4 +29,5 @@ Closing
 	- git stash clear to clear the stashes
 - A merge on the remote is called a pull request or merge request
 	- git push <where> <what>
+- To update a PR, do changes locally and re push to the remote
 	
