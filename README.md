@@ -31,3 +31,5 @@ Closing
 	- git push <where> <what>
 - To update a PR, do changes locally and re push to the remote
 - A merge conflict can happen after a PR is issued
+- git fetch update git log
+	-git fetch --prune to prune branches inexisting on the remote
