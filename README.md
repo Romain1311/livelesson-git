@@ -42,3 +42,5 @@ Closing
 	- git push --force-with-lease <where> <what> to push more carefully and not erase
 - Add a collaborator in the settings of the repo
 	- The collaborator use git clone to get a copy of the remote on its local machine
+- Each person's branch changes are independent from others
+
