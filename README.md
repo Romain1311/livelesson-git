@@ -35,3 +35,6 @@ Closing
 	-git fetch --prune to prune branches inexisting on the remote
 - git push -f <where> <what> to force the push
 	-git push --force-with-lease <where> <what> to push more carefully and not erase 
+
+## Collaborators
+- Second one to push need to sync their local with the remote repo
