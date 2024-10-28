@@ -34,7 +34,11 @@ Closing
 - git fetch update git log
 	-git fetch --prune to prune branches inexisting on the remote
 - git push -f <where> <what> to force the push
+<<<<<<< HEAD
 	-git push --force-with-lease <where> <what> to push more carefully and not erase 
 
 ## Collaborators
 - Second one to push need to sync their local with the remote repo
+	- git push --force-with-lease <where> <what> to push more carefully and not erase
+- Add a collaborator in the settings of the repo
+	- The collaborator use git clone to get a copy of the remote on its local machine
