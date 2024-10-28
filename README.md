@@ -47,3 +47,7 @@ Closing
 
 ## Git Workflow
 - You can use dev flow
+- Forking Workflow
+	- Fork is commonly used in massive open-source project
+	- Copy the original remote to get your own to work on without modifying the original 
+	- origin is your remote and upstream is the original remote
