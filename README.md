@@ -34,7 +34,6 @@ Closing
 - git fetch update git log
 	-git fetch --prune to prune branches inexisting on the remote
 - git push -f <where> <what> to force the push
-<<<<<<< HEAD
 	-git push --force-with-lease <where> <what> to push more carefully and not erase 
 
 ## Collaborators
@@ -43,4 +42,4 @@ Closing
 - Add a collaborator in the settings of the repo
 	- The collaborator use git clone to get a copy of the remote on its local machine
 - Each person's branch changes are independent from others
-
+- Feature branches won't show any conflicts until you try to merge them
