@@ -43,3 +43,4 @@ Closing
 	- The collaborator use git clone to get a copy of the remote on its local machine
 - Each person's branch changes are independent from others
 - Feature branches won't show any conflicts until you try to merge them
+- You can setup branch protection rules to protect main branch from being directly pushed into
