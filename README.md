@@ -35,5 +35,7 @@ Closing
 	-git fetch --prune to prune branches inexisting on the remote
 - git push -f <where> <what> to force the push
 	-git push --force-with-lease <where> <what> to push more carefully and not erase
+
+## Collaborator
 - Add a collaborator in the settings of the repo
 	- The collaborator use git clone to get a copy of the remote on its local machine
